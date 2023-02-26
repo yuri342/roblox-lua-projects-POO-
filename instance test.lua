@@ -15,4 +15,6 @@ function click()
 	
 end
 
-b.ClickDetector.MouseClick:Connect(click) 
+b.ClickDetector.MouseClick:Connect(click)
+
+--roblox api was used to create this code
